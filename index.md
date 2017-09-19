@@ -30,9 +30,10 @@ cross-community collaborations.
 
 <div class="instructors">
      <div class="instructor">
-       <a href="https://people.eecs.berkeley.edu/~dawnsong/">
-         <div class="instructorphoto"><img src="assets/people/dawnsong.jpg"/></div>
+       <a href="https://research.google.com/pubs/105214.html">
+         <div class="instructorphoto"><img src="assets/people/iangoodfellow.jpg"/></div>
          <div>Ian Goodfellow</div>
+         <div>Google Brain</div>
        </a>
      </div>
      <div class="instructor">
