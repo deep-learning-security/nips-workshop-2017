@@ -128,16 +128,16 @@ cross-community collaborations.
 
 # Organizer
 
-[Jacob Steinhardt]<jacob.steinhardt@gmail.com>
+[Jacob Steinhardt](<mailto:jacob.steinhardt@gmail.com>)
 
 [Bo Li](<mailto:crystalboli@berkeley.edu>)
 
-[Chang Liu]<liuchang@eecs.berkeley.edu>
+[Chang Liu](<mailto:liuchang@eecs.berkeley.edu>)
 
-[Nicolas Papernot]<ngp5056@cse.psu.edu>
+[Nicolas Papernot](<mailto:ngp5056@cse.psu.edu>)
 
-[Percy Liang]<pliang@stanford.edu>
+[Percy Liang](<mailto:pliang@stanford.edu>)
 
-[Dawn Song]<dawnsong@cs.berkeley.edu>
+[Dawn Song](<mailto:dawnsong@cs.berkeley.edu>)
 
 
