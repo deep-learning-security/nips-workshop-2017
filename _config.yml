@@ -1,7 +1,7 @@
 # title: Deep Learning Security Workshop
 tagline: Singapore, December 14-15, 2017
 email: deep-learning-security@googlegroups.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/nips-workshop-2017" # the subpath of your site, e.g. /blog
 url: "https://deep-learning-security.github.io" # the base hostname & protocol for your site
 
 # Build settings
