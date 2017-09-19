@@ -37,39 +37,44 @@ cross-community collaborations.
        </a>
      </div>
      <div class="instructor">
-       <a href="http://www.comp.nus.edu.sg/~prateeks/">
-         <div class="instructorphoto"><img src="http://www.cs.berkeley.edu/~prateeks/photo-2.jpg"/></div>
+       <a href="http://mrtz.org/">
+         <div class="instructorphoto"><img src="assets/people/mhart.jpg"/></div>
          <div>Moritz Hardt</div>
+         <div>UC Berkeley</div>
        </a>
      </div>
      <div class="instructor">
-       <a href="http://www.comp.nus.edu.sg/~prateeks/">
-         <div class="instructorphoto"><img src="http://www.cs.berkeley.edu/~prateeks/photo-2.jpg"/></div>
+         <div class="instructorphoto"><img src="assets/people/AlinaOprea.jpg"/></div>
          <div>Alina Oprea</div>
+         <div>Northeastern University</div>
        </a>
      </div>
      <div class="instructor">
-       <a href="http://www.comp.nus.edu.sg/~prateeks/">
-         <div class="instructorphoto"><img src="http://www.cs.berkeley.edu/~prateeks/photo-2.jpg"/></div>
+       <a href="https://www.cs.purdue.edu/homes/alanqi/">
+         <div class="instructorphoto"><img src="assets/people/Yuan_Qi.jpg"/></div>
          <div>Alan Qi</div>
+         <div>FinTech</div>
        </a>
      </div>
      <div class="instructor">
-       <a href="http://www.comp.nus.edu.sg/~prateeks/">
-         <div class="instructorphoto"><img src="http://www.cs.berkeley.edu/~prateeks/photo-2.jpg"/></div>
+       <a href="http://theory.stanford.edu/~barrett/">
+         <div class="instructorphoto"><img src="assets/people/ClarkBarrett.jpg"/></div>
          <div>Clark Barrett</div>
+         <div>Stanford University</div>
        </a>
      </div>
      <div class="instructor">
-       <a href="http://www.comp.nus.edu.sg/~prateeks/">
-         <div class="instructorphoto"><img src="http://www.cs.berkeley.edu/~prateeks/photo-2.jpg"/></div>
+       <a href="http://www.allandafoe.com/">
+         <div class="instructorphoto"><img src="assets/people/dafoe_1.png"/></div>
          <div>Allan Dafoe</div>
+         <div>Yale University</div>
        </a>
      </div>
      <div class="instructor">
-       <a href="http://www.comp.nus.edu.sg/~prateeks/">
-         <div class="instructorphoto"><img src="http://www.cs.berkeley.edu/~prateeks/photo-2.jpg"/></div>
+       <a href="https://www.microsoft.com/en-us/research/people/donaldbr/">
+         <div class="instructorphoto"><img src="assets/people/onstage.jpg"/></div>
          <div>Donald Brinkman</div>
+         <div>Microsoft Research</div>
        </a>
      </div>
 </div>
