@@ -5,51 +5,133 @@ title: Deep Learning Security Workshop
 
 # Overview
 
-Deep learning has made huge advances and impact in many
-areas of computer science such as vision, speech, NLP, and
-robotics. Many exciting research questions lie in the
-intersection of security and deep learning.
+While traditional computer security relies on well-defined
+attack models and proofs of security, a science of security
+for machine learning systems has proven more elusive. This
+is due to a number of obstacles, including (1) the highly
+varied angles of attack against ML systems, (2) the lack of
+a clearly defined attack surface (because the source of the
+data analyzed by ML systems is not easily traced), and (3)
+the lack of clear formal definitions of security that are
+appropriate for ML systems. At the same time, security of
+ML systems is of great import due the recent trend of using
+ML systems as a line of defense against malicious behavior
+(e.g., network intrusion, malware, and ransomware), as well
+as the prevalence of ML systems as parts of sensitive and
+valuable software systems (e.g. sentiment analyzers for
+predicting stock prices). This workshop will bring together
+experts from the computer security and machine learning
+communities in an attempt to highlight recent work in this
+area, as well as to clarify the foundations of secure ML and
+chart out important directions for future work and
+cross-community collaborations.
 
-**First**, how will these deep learning systems behave in the
-presence of adversaries? Research has shown that many of the
-state-of-the-art deep learning systems can be easily fooled by
-adversarial examples. We will explore fundamental questions in
-this area including what types of attacks are possible on deep
-learning systems, why they exist, and how we can defend
-against them.
-
-**Second**, how can deep learning techniques help security
-applications? We will explore this area and study example
-security applications using deep learning techniques including
-program binary analysis, password security analysis, malware
-detection and fraud detection.
-
-This year we will also have a [Research Forum](forum.md) on Dec 14. Submission deadline is on Nov 5, 2017.
-
-For more information and future announcements in deep learning and security, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security).
-
-# Co-chairs
+# Invited Speakers
 
 <div class="instructors">
      <div class="instructor">
        <a href="https://people.eecs.berkeley.edu/~dawnsong/">
          <div class="instructorphoto"><img src="assets/people/dawnsong.jpg"/></div>
-         <div>Dawn Song</div>
+         <div>Ian Goodfellow</div>
        </a>
      </div>
      <div class="instructor">
        <a href="http://www.comp.nus.edu.sg/~prateeks/">
          <div class="instructorphoto"><img src="http://www.cs.berkeley.edu/~prateeks/photo-2.jpg"/></div>
-         <div>Prateek Saxena</div>
+         <div>Moritz Hardt</div>
+       </a>
+     </div>
+     <div class="instructor">
+       <a href="http://www.comp.nus.edu.sg/~prateeks/">
+         <div class="instructorphoto"><img src="http://www.cs.berkeley.edu/~prateeks/photo-2.jpg"/></div>
+         <div>Alina Oprea</div>
+       </a>
+     </div>
+     <div class="instructor">
+       <a href="http://www.comp.nus.edu.sg/~prateeks/">
+         <div class="instructorphoto"><img src="http://www.cs.berkeley.edu/~prateeks/photo-2.jpg"/></div>
+         <div>Alan Qi</div>
+       </a>
+     </div>
+     <div class="instructor">
+       <a href="http://www.comp.nus.edu.sg/~prateeks/">
+         <div class="instructorphoto"><img src="http://www.cs.berkeley.edu/~prateeks/photo-2.jpg"/></div>
+         <div>Clark Barrett</div>
+       </a>
+     </div>
+     <div class="instructor">
+       <a href="http://www.comp.nus.edu.sg/~prateeks/">
+         <div class="instructorphoto"><img src="http://www.cs.berkeley.edu/~prateeks/photo-2.jpg"/></div>
+         <div>Allan Dafoe</div>
+       </a>
+     </div>
+     <div class="instructor">
+       <a href="http://www.comp.nus.edu.sg/~prateeks/">
+         <div class="instructorphoto"><img src="http://www.cs.berkeley.edu/~prateeks/photo-2.jpg"/></div>
+         <div>Donald Brinkman</div>
        </a>
      </div>
 </div>
 
 # Schedule
 
-To be determined.
+8:40 - Opening Remarks
 
-# Sponsors
+** Session 1: Machine Learning, Cybersecurity, and Society **
 
-![Sponsors](assets/logo/banner.png)
+9:00 - Invited Talk #1: *Strategic and societal implications of ML* by Allan Dafoe
+
+9:30 - Contributed Talk #1
+
+9:45 - Poster Spotlights #1
+
+10:00 - Coffee Break
+
+** Session 2: Secure Machine Learning in Practice **
+
+10:30 - Invited Talk #2: *Security in practice* by Alina Oprea
+
+11:00 - Contributed Talk #2
+
+11:15 - Invited Talk #3: *Security in FinTech* by Alan Qi
+
+11:45 - Poster Spotlights #2
+
+12:00 - Lunch **
+
+** Session 3: Security Vulnerabilities of Machine Learning Systems **
+
+1:15 - Invited Talk #4: *Vulnerabilities of neural nets* by Ian Goodfellow
+
+1:45 - Contributed Talk #3
+
+2:00 - Poster Session/Break
+
+** Session 4: Definitions of Secure Learning **
+
+2:45 - Invited Talk #5: *Security and fairness* by Moritz Hardt
+
+3:15 - Contributed Talk #4
+
+3:30 - Invited Talk #6: TBD
+
+** Session 5: Verifying Machine Learning Code **
+
+4:00 - Invited Talk #7: *Verification on ML systems* by Clark Barrett and Daniel Selman
+
+
+# Organizer
+
+[Jacob Steinhardt](jacob.steinhardt@gmail.com)
+
+[Bo Li](crystalboli@berkeley.edu )
+
+[Chang Liu](liuchang@eecs.berkeley.edu)
+
+[Nicolas Papernot](ngp5056@cse.psu.edu)
+
+[Percy Liang](pliang@stanford.edu)
+
+[Dawn Song](dawnsong@cs.berkeley.edu)
+
 
