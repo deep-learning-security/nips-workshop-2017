@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deep Learning Security Workshop
+title:  Machine Learning and Computer Security
 ---
 
 # Overview
@@ -25,6 +25,10 @@ communities in an attempt to highlight recent work in this
 area, as well as to clarify the foundations of secure ML and
 chart out important directions for future work and
 cross-community collaborations.
+
+# Contributing your talks
+
+The [Call for Paper](cfp.md) is available.
 
 # Invited Speakers
 
