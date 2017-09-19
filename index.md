@@ -130,7 +130,7 @@ cross-community collaborations.
 
 [Jacob Steinhardt]<jacob.steinhardt@gmail.com>
 
-[Bo Li](<crystalboli@berkeley.edu>)
+[Bo Li](<mailto:crystalboli@berkeley.edu>)
 
 [Chang Liu]<liuchang@eecs.berkeley.edu>
 
