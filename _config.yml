@@ -1,5 +1,5 @@
-# title: Deep Learning Security Workshop
-tagline: Singapore, December 14-15, 2017
+# title: Machine Learning and Computer Security Workshop
+tagline: accompany [NIPS 2017](https://nips.cc/), Long Beach, CA, USA, December 8-9, 2017
 email: deep-learning-security@googlegroups.com
 baseurl: "/nips-workshop-2017" # the subpath of your site, e.g. /blog
 url: "https://deep-learning-security.github.io" # the base hostname & protocol for your site

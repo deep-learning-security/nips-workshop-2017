@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Machine Learning and Computer Security
+title:  Machine Learning and Computer Security Workshop
 ---
 
 # Overview
