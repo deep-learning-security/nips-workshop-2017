@@ -91,7 +91,7 @@ The [Call for Paper](cfp.md) is available.
 
 8:40 - Opening Remarks
 
-** Session 1: Machine Learning, Cybersecurity, and Society **
+**Session 1: Machine Learning, Cybersecurity, and Society**
 
 9:00 - Invited Talk #1: *Strategic and societal implications of ML* by Allan Dafoe
 
@@ -101,7 +101,7 @@ The [Call for Paper](cfp.md) is available.
 
 10:00 - Coffee Break
 
-** Session 2: Secure Machine Learning in Practice **
+**Session 2: Secure Machine Learning in Practice**
 
 10:30 - Invited Talk #2: *Security in practice* by Alina Oprea
 
@@ -111,9 +111,9 @@ The [Call for Paper](cfp.md) is available.
 
 11:45 - Poster Spotlights #2
 
-12:00 - Lunch **
+12:00 - Lunch
 
-** Session 3: Security Vulnerabilities of Machine Learning Systems **
+**Session 3: Security Vulnerabilities of Machine Learning Systems**
 
 1:15 - Invited Talk #4: *Vulnerabilities of neural nets* by Ian Goodfellow
 
@@ -121,7 +121,7 @@ The [Call for Paper](cfp.md) is available.
 
 2:00 - Poster Session/Break
 
-** Session 4: Definitions of Secure Learning **
+**Session 4: Definitions of Secure Learning**
 
 2:45 - Invited Talk #5: *Security and fairness* by Moritz Hardt
 
@@ -129,7 +129,7 @@ The [Call for Paper](cfp.md) is available.
 
 3:30 - Invited Talk #6: TBD
 
-** Session 5: Verifying Machine Learning Code **
+**Session 5: Verifying Machine Learning Code**
 
 4:00 - Invited Talk #7: *Verification on ML systems* by Clark Barrett and Daniel Selman
 
