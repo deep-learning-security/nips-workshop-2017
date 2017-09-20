@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Call for Paper: Machine Learning and Computer Security Workshop
+title: Machine Learning and Computer Security Workshop
 ---
 
-# Call for Paper
+# Call for Paper: Machine Learning and Computer Security Workshop
 
 ## Overview
 
