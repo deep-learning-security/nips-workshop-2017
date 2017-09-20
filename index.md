@@ -48,13 +48,6 @@ The [Call for Paper](cfp.md) is available.
        </a>
      </div>
      <div class="instructor">
-       <a href="http://www.ccs.neu.edu/home/alina/">
-         <div class="instructorphoto"><img src="assets/people/AlinaOprea.jpg"/></div>
-         <div>Alina Oprea</div>
-         <div>Northeastern University</div>
-       </a>
-     </div>
-     <div class="instructor">
        <a href="https://www.cs.purdue.edu/homes/alanqi/">
          <div class="instructorphoto"><img src="assets/people/Yuan_Qi.jpg"/></div>
          <div>Alan Qi</div>
@@ -64,6 +57,13 @@ The [Call for Paper](cfp.md) is available.
 </div>
 
 <div class="instructors">
+     <div class="instructor">
+       <a href="http://www.ccs.neu.edu/home/alina/">
+         <div class="instructorphoto"><img src="assets/people/AlinaOprea.jpg"/></div>
+         <div>Alina Oprea</div>
+         <div>Northeastern University</div>
+       </a>
+     </div>
      <div class="instructor">
        <a href="http://theory.stanford.edu/~barrett/">
          <div class="instructorphoto"><img src="assets/people/ClarkBarrett.jpg"/></div>
