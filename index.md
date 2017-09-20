@@ -26,10 +26,6 @@ area, as well as to clarify the foundations of secure ML and
 chart out important directions for future work and
 cross-community collaborations.
 
-# Contributing your talks
-
-The [Call for Paper](cfp.md) is available.
-
 # Invited Speakers
 
 <div class="instructors">
@@ -86,6 +82,11 @@ The [Call for Paper](cfp.md) is available.
        </a>
      </div>
 </div>
+
+
+# Contributing your talks
+
+The [Call for Paper](cfp.md) is available.
 
 # Schedule
 
