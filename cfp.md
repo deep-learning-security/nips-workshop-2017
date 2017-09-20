@@ -3,7 +3,7 @@ layout: page
 title: Call for Paper: Machine Learning and Computer Security Workshop
 ---
 
-# Machine Learning and Computer Security
+# Call for Paper
 
 ## Overview
 
