@@ -61,6 +61,9 @@ The [Call for Paper](cfp.md) is available.
          <div>FinTech</div>
        </a>
      </div>
+</div>
+
+<div class="instructors">
      <div class="instructor">
        <a href="http://theory.stanford.edu/~barrett/">
          <div class="instructorphoto"><img src="assets/people/ClarkBarrett.jpg"/></div>
