@@ -42,12 +42,13 @@ The [Call for Paper](cfp.md) is available.
      </div>
      <div class="instructor">
        <a href="http://mrtz.org/">
-         <div class="instructorphoto"><img src="assets/people/mhart.jpg"/></div>
+         <div class="instructorphoto"><img src="assets/people/mhardt.jpg"/></div>
          <div>Moritz Hardt</div>
          <div>UC Berkeley</div>
        </a>
      </div>
      <div class="instructor">
+       <a href="http://www.ccs.neu.edu/home/alina/">
          <div class="instructorphoto"><img src="assets/people/AlinaOprea.jpg"/></div>
          <div>Alina Oprea</div>
          <div>Northeastern University</div>
@@ -69,7 +70,7 @@ The [Call for Paper](cfp.md) is available.
      </div>
      <div class="instructor">
        <a href="http://www.allandafoe.com/">
-         <div class="instructorphoto"><img src="assets/people/dafoe_1.png"/></div>
+         <div class="instructorphoto"><img src="assets/people/dafoe.jpg"/></div>
          <div>Allan Dafoe</div>
          <div>Yale University</div>
        </a>
