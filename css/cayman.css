@@ -52,7 +52,7 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background: #000 url(/assets/longbeach-wide.jpg) no-repeat 50%;
+  background: #000 url(assets/banner1.jpg) no-repeat 50%;
   background-size: cover;
 }
   @media screen and (min-width: 64em) {
