@@ -93,6 +93,11 @@ Nicolas Papernot
 
 Jacob Steinhardt
 
+## Steering Committee
+
+Percy Liang
+
+Dawn Song
 
 ## Links
 
