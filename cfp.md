@@ -3,7 +3,7 @@ layout: page
 title: Machine Learning and Computer Security Workshop
 ---
 
-# Call for Paper
+# Call for Papers
 
 ## Overview
 
@@ -34,7 +34,6 @@ relates to computer security. This includes, but is not limited
 to:
 
 * Case studies of machine learning used in cyber security, such as detection of spam, sybils, or malicious URLs
-* Whitepapers proposing or building on formal threat models and definitions of security
 * Training time attacks (e.g., data poisoning)
 * Adversarial examples at test time
 * Model stealing (e.g., for reconnaissance of a system before mounting an attack)
@@ -42,6 +41,7 @@ to:
 * Formal verification of machine learning systems
 * Identifying bugs in machine learning systems, especially if they present security vulnerabilities
 * Strategic analysis of present or future security / misuse risks and how to prioritize them
+* White papers proposing or building on formal threat models and definitions of security
 
 Submissions should have a clear explanation of their relationship
 to security, for instance by describing an [attack model](https://en.wikipedia.org/wiki/Attack_model) and the ways
@@ -55,10 +55,10 @@ reproducibility of research results (e.g., by open-sourcing their code).
 
 We accept two types of submissions:
 
-+ **Posters:** We accept submissions on novel results. The submissions should be formated using
-a template from any major conferences (NIPS, ICML, etc.). A maximal of 4 pages are allowed for this type of
++ **Research Track:** We accept submissions on novel results. The submissions should be formated using
+a template from any major conferences (NIPS, ICML, etc.). A maximum of 4 pages are allowed for this type of
 submission
-+ **Contributed talks:** We also accept papers that have already been published. We do not have a page limit
++ **Encore Track:** We also accept papers that have already been published. We do not have a page limit
 on this type of submissions. In the submission site, please use the **Keyword** field to provide the information
 on the venue where the submission was originally published.
 
@@ -70,12 +70,14 @@ Contact [Chang Liu](<mailto:liuchang@eecs.berkeley.edu>) for any questions.
 
 ## Criteria
 
-Our decisions will be made mainly based on their relevance to the topics of the workshop.
-For poster submissions, the novelty will also be considered.
+Our decisions will be made mainly based on relevance of the submissions to the topics of the workshop.
+For technical submissions, we will further evaluate the novelty and the scientific quality.
+White papers and strategic analysis papers will be further evaluated based on the clarity of presentation
+and the significance of the questions addressed.
 
 ## Best Paper Award
 
-<span style="color:red">We will present a best paper award ($500) to the best poster paper!</span>
+<span style="color:red">We will present a best paper award ($1000) to the best poster paper!</span>
 
 ## Program Committee
 

@@ -86,7 +86,7 @@ cross-community collaborations.
 
 # Contributing your talks
 
-The [Call for Paper](cfp.md) is available.
+The [Call for Papers](cfp.md) is available.
 
 # Schedule (tentative)
 
