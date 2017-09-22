@@ -137,16 +137,42 @@ The [Call for Paper](cfp.md) is available.
 
 # Organizer
 
-[Jacob Steinhardt](<mailto:jacob.steinhardt@gmail.com>)
 
-[Bo Li](<mailto:crystalboli@berkeley.edu>)
-
-[Chang Liu](<mailto:liuchang@eecs.berkeley.edu>)
-
-[Nicolas Papernot](<mailto:ngp5056@cse.psu.edu>)
-
-[Percy Liang](<mailto:pliang@stanford.edu>)
-
-[Dawn Song](<mailto:dawnsong@cs.berkeley.edu>)
-
-
+<div class="instructors">
+     <div class="organizer">
+       <a href="mailto:crystalboli@berkeley.edu">
+         <div class="instructorphoto"><img src="assets/people/boli.jpg"/></div>
+         <div>Bo Li</div>
+       </a>
+     </div>
+     <div class="organizer">
+       <a href="mailto:liuchang@eecs.berkeley.edu">
+         <div class="instructorphoto"><img src="assets/people/chang.jpg"/></div>
+         <div>Chang Liu</div>
+       </a>
+     </div>
+     <div class="organizer">
+       <a href="mailto:ngp5056@cse.psu.edu">
+         <div class="instructorphoto"><img src="assets/people/ngp.jpg"/></div>
+         <div>Nicolas Papernot</div>
+       </a>
+     </div>
+     <div class="organizer">
+       <a href="mailto:jacob.steinhardt@gmail.com">
+         <div class="instructorphoto"><img src="assets/people/jacob.png"/></div>
+         <div>Jacob Steinhardt</div>
+       </a>
+     </div>
+     <div class="organizer">
+       <a href="mailto:pliang@stanford.edu">
+         <div class="instructorphoto"><img src="assets/people/percy.jpg"/></div>
+         <div>Percy Liang</div>
+       </a>
+     </div>
+     <div class="organizer">
+       <a href="mailto:dawnsong@cs.berkeley.edu">
+         <div class="instructorphoto"><img src="assets/people/dawnsong.jpg"/></div>
+         <div>Dawn Song</div>
+       </a>
+     </div>
+</div>

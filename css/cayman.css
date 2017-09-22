@@ -247,6 +247,8 @@ a {
 
 .instructor { display: inline-block; width: 400; text-align: center; margin-right: 20px; }
 
+.organizer { display: inline-block; width: 200; text-align: center; margin-right: 20px; }
+
 .instructors {
   display: flex;
   justify-content: space-around;
