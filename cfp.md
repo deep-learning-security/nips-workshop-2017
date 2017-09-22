@@ -55,10 +55,10 @@ reproducibility of research results (e.g., by open-sourcing their code).
 
 We accept two types of submissions:
 
-+ **Technical communication:** We accept submissions on novel results. The submissions should be formated using
++ **Posters:** We accept submissions on novel results. The submissions should be formated using
 a template from any major conferences (NIPS, ICML, etc.). A maximal of 4 pages are allowed for this type of
 submission
-+ **Existing publication:** We also accept papers that have already been published. We do not have a page limit
++ **Contributed talks:** We also accept papers that have already been published. We do not have a page limit
 on this type of submissions. In the submission site, please use the **Keyword** field to provide the information
 on the venue where the submission was originally published.
 
