@@ -88,13 +88,13 @@ cross-community collaborations.
 
 The [Call for Paper](cfp.md) is available.
 
-# Schedule
+# Schedule (tentative)
 
 8:40 - Opening Remarks
 
 **Session 1: Machine Learning, Cybersecurity, and Society**
 
-9:00 - Invited Talk #1: *Strategic and societal implications of ML* by Allan Dafoe
+9:00 - Invited Talk #1: *TBD* by Allan Dafoe
 
 9:30 - Contributed Talk #1
 
@@ -104,11 +104,11 @@ The [Call for Paper](cfp.md) is available.
 
 **Session 2: Secure Machine Learning in Practice**
 
-10:30 - Invited Talk #2: *Security in practice* by Alina Oprea
+10:30 - Invited Talk #2: *TBD* by Alina Oprea
 
 11:00 - Contributed Talk #2
 
-11:15 - Invited Talk #3: *Security in FinTech* by Alan Qi
+11:15 - Invited Talk #3: *TBD* by Alan Qi
 
 11:45 - Poster Spotlights #2
 
@@ -116,7 +116,7 @@ The [Call for Paper](cfp.md) is available.
 
 **Session 3: Security Vulnerabilities of Machine Learning Systems**
 
-1:15 - Invited Talk #4: *Vulnerabilities of neural nets* by Ian Goodfellow
+1:15 - Invited Talk #4: *TBD* by Ian Goodfellow
 
 1:45 - Contributed Talk #3
 
@@ -124,7 +124,7 @@ The [Call for Paper](cfp.md) is available.
 
 **Session 4: Definitions of Secure Learning**
 
-2:45 - Invited Talk #5: *Security and fairness* by Moritz Hardt
+2:45 - Invited Talk #5: *TBD* by Moritz Hardt
 
 3:15 - Contributed Talk #4
 
@@ -132,7 +132,7 @@ The [Call for Paper](cfp.md) is available.
 
 **Session 5: Verifying Machine Learning Code**
 
-4:00 - Invited Talk #7: *Verification on ML systems* by Clark Barrett and Daniel Selman
+4:00 - Invited Talk #7: *TBD* by Clark Barrett
 
 
 # Organizer
