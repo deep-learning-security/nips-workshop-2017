@@ -62,6 +62,8 @@ submission
 on this type of submissions. In the submission site, please use the **Keyword** field to provide the information
 on the venue where the submission was originally published.
 
+Contact [Chang Liu](<mailto:liuchang@eecs.berkeley.edu>) for any questions.
+
 ## Criteria
 
 A small program committee will review all submissions. Our decisions will be made only based on their relevance
@@ -84,3 +86,6 @@ Nicolas Papernot
 Jacob Steinhardt
 
 
+## Links
+
+[Back to main page](index.md)
