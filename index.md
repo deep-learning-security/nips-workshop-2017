@@ -140,6 +140,12 @@ The [Call for Paper](cfp.md) is available.
 
 <div class="instructors">
      <div class="organizer">
+       <a href="mailto:jacob.steinhardt@gmail.com">
+         <div class="instructorphoto"><img src="assets/people/jacob.png"/></div>
+         <div>Jacob Steinhardt</div>
+       </a>
+     </div>
+     <div class="organizer">
        <a href="mailto:crystalboli@berkeley.edu">
          <div class="instructorphoto"><img src="assets/people/boli.jpg"/></div>
          <div>Bo Li</div>
@@ -155,12 +161,6 @@ The [Call for Paper](cfp.md) is available.
        <a href="mailto:ngp5056@cse.psu.edu">
          <div class="instructorphoto"><img src="assets/people/ngp.png"/></div>
          <div>Nicolas Papernot</div>
-       </a>
-     </div>
-     <div class="organizer">
-       <a href="mailto:jacob.steinhardt@gmail.com">
-         <div class="instructorphoto"><img src="assets/people/jacob.png"/></div>
-         <div>Jacob Steinhardt</div>
        </a>
      </div>
      <div class="organizer">
