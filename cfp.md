@@ -62,6 +62,10 @@ submission
 on this type of submissions. In the submission site, please use the **Keyword** field to provide the information
 on the venue where the submission was originally published.
 
+We employ two rounds of rolling deadlines:
++ **Round 1**: deadline for submission **October 22th, 2017**; notification **November 3rd, 2017**
++ **Round 2**: deadline for submission **November 3rd, 2017**; notification **November 17rd, 2017**
+
 Contact [Chang Liu](<mailto:liuchang@eecs.berkeley.edu>) for any questions.
 
 ## Criteria
@@ -74,6 +78,8 @@ to the topics of the workshop. For technical communications, the novelty will al
 <span style="color:red">We will present a best paper award ($500) to the best technical communication paper!</span>
 
 ## Program Committee
+
+Nicholas Carlini
 
 Xinyun Chen
 
