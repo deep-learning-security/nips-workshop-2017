@@ -94,7 +94,7 @@ The [Call for Paper](cfp.md) is available.
 
 **Session 1: Machine Learning, Cybersecurity, and Society**
 
-9:00 - Invited Talk #1: *TBD* by Allan Dafoe
+9:00 - Invited Talk #1: *TBD* by [Allan Dafoe](http://www.allandafoe.com)
 
 9:30 - Contributed Talk #1
 
@@ -104,11 +104,11 @@ The [Call for Paper](cfp.md) is available.
 
 **Session 2: Secure Machine Learning in Practice**
 
-10:30 - Invited Talk #2: *TBD* by Alina Oprea
+10:30 - Invited Talk #2: *TBD* by [Alina Oprea](http://www.ccs.neu.edu/home/alina/)
 
 11:00 - Contributed Talk #2
 
-11:15 - Invited Talk #3: *TBD* by Alan Qi
+11:15 - Invited Talk #3: *TBD* by [Alan Qi](https://www.cs.purdue.edu/homes/alanqi/)
 
 11:45 - Poster Spotlights #2
 
@@ -116,7 +116,7 @@ The [Call for Paper](cfp.md) is available.
 
 **Session 3: Security Vulnerabilities of Machine Learning Systems**
 
-1:15 - Invited Talk #4: *TBD* by Ian Goodfellow
+1:15 - Invited Talk #4: *TBD* by [Ian Goodfellow](https://research.google.com/pubs/105214.html)
 
 1:45 - Contributed Talk #3
 
@@ -124,7 +124,7 @@ The [Call for Paper](cfp.md) is available.
 
 **Session 4: Definitions of Secure Learning**
 
-2:45 - Invited Talk #5: *TBD* by Moritz Hardt
+2:45 - Invited Talk #5: *TBD* by [Moritz Hardt](http://mrtz.org/)
 
 3:15 - Contributed Talk #4
 
@@ -132,7 +132,7 @@ The [Call for Paper](cfp.md) is available.
 
 **Session 5: Verifying Machine Learning Code**
 
-4:00 - Invited Talk #7: *TBD* by Clark Barrett
+4:00 - Invited Talk #7: *TBD* by [Clark Barrett](http://theory.stanford.edu/~barrett/)
 
 
 # Organizer
