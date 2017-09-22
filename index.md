@@ -153,7 +153,7 @@ The [Call for Paper](cfp.md) is available.
      </div>
      <div class="organizer">
        <a href="mailto:ngp5056@cse.psu.edu">
-         <div class="instructorphoto"><img src="assets/people/ngp.jpg"/></div>
+         <div class="instructorphoto"><img src="assets/people/ngp.png"/></div>
          <div>Nicolas Papernot</div>
        </a>
      </div>
@@ -165,7 +165,7 @@ The [Call for Paper](cfp.md) is available.
      </div>
      <div class="organizer">
        <a href="mailto:pliang@stanford.edu">
-         <div class="instructorphoto"><img src="assets/people/percy.jpg"/></div>
+         <div class="instructorphoto"><img src="assets/people/percy.jpeg"/></div>
          <div>Percy Liang</div>
        </a>
      </div>
