@@ -49,3 +49,38 @@ in which the submitted work addresses such attacks. While not mandatory,
 submissions are encouraged to take special care in facilitating
 reproducibility of research results (e.g., by open-sourcing their code).
 
+## Submissions
+
+<span style="color:red">The [submission site](https://easychair.org/conferences/?conf=mlsec17) is open!</span>
+
+We accept two types of submissions:
+
++ **Technical communication:** We accept submissions on novel results. The submissions should be formated using
+a template from any major conferences (NIPS, ICML, etc.). A maximal of 4 pages are allowed for this type of
+submission
++ **Existing publication:** We also accept papers that have already been published. We do not have a page limit
+on this type of submissions. In the submission site, please use the **Keyword** field to provide the information
+on the venue where the submission was originally published.
+
+## Criteria
+
+A small program committee will review all submissions. Our decisions will be made only based on their relevance
+to the topics of the workshop. For technical communications, the novelty will also be considered.
+
+## Best Paper Award
+
+<span style="color:red">We will present a best paper award ($500) to the best technical communication paper!</span>
+
+## Program Committee
+
+Xinyun Chen
+
+Bo Li
+
+Chang Liu (chair)
+
+Nicolas Papernot
+
+Jacob Steinhardt
+
+
