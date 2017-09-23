@@ -53,7 +53,7 @@ reproducibility of research results (e.g., by open-sourcing their code).
 
 <span style="color:red">The [submission site](https://easychair.org/conferences/?conf=mlsec17) is open!</span>
 
-We accept two types of submissions:
+There are two tracks for submissions:
 
 + **Research Track:** We accept submissions on novel results. The submissions should be formated using
 a template from any major conferences (NIPS, ICML, etc.). A maximum of 4 pages are allowed for this type of
