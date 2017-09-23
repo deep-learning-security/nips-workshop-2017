@@ -81,6 +81,8 @@ and the significance of the questions addressed.
 
 ## Program Committee
 
+Sadia Afroz
+
 Nicholas Carlini
 
 Xinyun Chen
