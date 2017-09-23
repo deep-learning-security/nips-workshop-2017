@@ -153,7 +153,7 @@ The [Call for Papers](cfp.md) is available.
      </div>
      <div class="organizer">
        <a href="mailto:liuchang@eecs.berkeley.edu">
-         <div class="instructorphoto"><img src="assets/people/chang.jpg"/></div>
+         <div class="organizerphoto1"><img src="assets/people/chang.jpg"/></div>
          <div>Chang Liu</div>
        </a>
      </div>
