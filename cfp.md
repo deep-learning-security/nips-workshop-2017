@@ -77,7 +77,7 @@ and the significance of the questions addressed.
 
 ## Best Paper Award
 
-<span style="color:red">We will present a best paper award ($1000) to the best poster paper!</span>
+<span style="color:red">We will present a best paper award ($1000)!</span>
 
 ## Program Committee
 
