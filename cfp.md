@@ -93,7 +93,11 @@ Nicolas Papernot
 
 Jacob Steinhardt
 
+Weilin Xu
+
 ## Steering Committee
+
+Dan Boneh
 
 Percy Liang
 
