@@ -50,9 +50,6 @@ cross-community collaborations.
          <div>FinTech</div>
        </a>
      </div>
-</div>
-
-<div class="instructors">
      <div class="instructor">
        <a href="https://research.google.com/pubs/105214.html">
          <div class="instructorphoto"><img src="assets/people/iangoodfellow.jpg"/></div>
@@ -60,6 +57,9 @@ cross-community collaborations.
          <div>Google Brain</div>
        </a>
      </div>
+</div>
+
+<div class="instructors">
      <div class="instructor">
        <a href="http://mrtz.org/">
          <div class="instructorphoto"><img src="assets/people/mhardt.jpg"/></div>
