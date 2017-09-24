@@ -50,21 +50,14 @@ cross-community collaborations.
          <div>FinTech</div>
        </a>
      </div>
-     <div class="instructor">
-       <a href="https://research.google.com/pubs/105214.html">
-         <div class="instructorphoto"><img src="assets/people/iangoodfellow.jpg"/></div>
-         <div>Ian Goodfellow</div>
-         <div>Google Brain</div>
-       </a>
-     </div>
 </div>
 
 <div class="instructors">
      <div class="instructor">
-       <a href="http://mrtz.org/">
-         <div class="instructorphoto"><img src="assets/people/mhardt.jpg"/></div>
-         <div>Moritz Hardt</div>
-         <div>UC Berkeley</div>
+       <a href="http://theory.stanford.edu/~barrett/">
+         <div class="instructorphoto"><img src="assets/people/ClarkBarrett.jpg"/></div>
+         <div>Clark Barrett</div>
+         <div>Stanford University</div>
        </a>
      </div>
      <div class="instructor">
@@ -75,10 +68,17 @@ cross-community collaborations.
        </a>
      </div>
      <div class="instructor">
-       <a href="http://theory.stanford.edu/~barrett/">
-         <div class="instructorphoto"><img src="assets/people/ClarkBarrett.jpg"/></div>
-         <div>Clark Barrett</div>
-         <div>Stanford University</div>
+       <a href="https://research.google.com/pubs/105214.html">
+         <div class="instructorphoto"><img src="assets/people/iangoodfellow.jpg"/></div>
+         <div>Ian Goodfellow</div>
+         <div>Google Brain</div>
+       </a>
+     </div>
+     <div class="instructor">
+       <a href="http://mrtz.org/">
+         <div class="instructorphoto"><img src="assets/people/mhardt.jpg"/></div>
+         <div>Moritz Hardt</div>
+         <div>UC Berkeley</div>
        </a>
      </div>
 </div>
