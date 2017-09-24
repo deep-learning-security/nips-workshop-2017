@@ -30,10 +30,10 @@ cross-community collaborations.
 
 <div class="instructors">
      <div class="instructor">
-       <a href="http://www.allandafoe.com/">
-         <div class="instructorphoto"><img src="assets/people/dafoe.jpg"/></div>
-         <div>Allan Dafoe</div>
-         <div>Yale University</div>
+       <a href="https://www.cs.purdue.edu/homes/alanqi/">
+         <div class="instructorphoto"><img src="assets/people/Yuan_Qi.jpg"/></div>
+         <div>Alan Qi</div>
+         <div>FinTech</div>
        </a>
      </div>
      <div class="instructor">
@@ -44,10 +44,10 @@ cross-community collaborations.
        </a>
      </div>
      <div class="instructor">
-       <a href="https://www.cs.purdue.edu/homes/alanqi/">
-         <div class="instructorphoto"><img src="assets/people/Yuan_Qi.jpg"/></div>
-         <div>Alan Qi</div>
-         <div>FinTech</div>
+       <a href="http://www.allandafoe.com/">
+         <div class="instructorphoto"><img src="assets/people/dafoe.jpg"/></div>
+         <div>Allan Dafoe</div>
+         <div>Yale University</div>
        </a>
      </div>
 </div>
