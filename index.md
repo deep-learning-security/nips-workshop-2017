@@ -128,7 +128,7 @@ The [Call for Papers](cfp.md) is available.
 
 3:15 - Contributed Talk #4
 
-3:30 - Invited Talk #6: TBD
+3:30 - Invited Talk #6: *TBD* by [Donald Brinkman](https://www.microsoft.com/en-us/research/people/donaldbr/)
 
 **Session 5: Verifying Machine Learning Code**
 
