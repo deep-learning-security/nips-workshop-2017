@@ -89,11 +89,11 @@ Xinyun Chen
 
 Bo Li
 
-Chang Liu (chair)
+Chang Liu (co-chair)
 
 Nicolas Papernot
 
-Jacob Steinhardt
+Jacob Steinhardt (co-chair)
 
 Weilin Xu
 
